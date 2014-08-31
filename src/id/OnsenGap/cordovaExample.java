@@ -17,7 +17,7 @@
        under the License.
  */
 
-package id.angujs;
+package id.OnsenGap;
 
 import android.os.Bundle;
 import org.apache.cordova.*;
